@@ -4,6 +4,10 @@ Swift_aplication_rest
 
 Two versions of program are uploaded one need GMP libraries another dont need any but it fails to detect prime number.
 
+version 1:- Swift_code challenge_without_GMP.c-->(calculate and check fibonecci upto 500 digit but doesn't work for prime number)
+
+version 2:- Swift_Code_challange_using_GMP.c-->(Works fine for all test cases, please check attached test cases file)
+
 Program needs GMP libraries to run.
 
 To install GMP libraries on your Machine Follow instructions 
