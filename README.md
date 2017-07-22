@@ -1,6 +1,18 @@
-
 # swift
 Swift_aplication_rest
+
+Software, Product, and Embedded Engineering Candidates
+In the programming language of your choice, write a program generating the first n Fibonacci numbers F(n), printing
+
+- "Buzz" when F(n) is divisible by 3.
+
+- "Fizz" when F(n) is divisible by 5.
+
+- "FizzBuzz" when F(n) is divisible by 15.
+
+- "BuzzFizz" when F(n) is prime.
+
+- the value F(n) otherwise.
 
 Two versions of program are uploaded one need GMP libraries another dont need any but it fails to detect prime number.
 
